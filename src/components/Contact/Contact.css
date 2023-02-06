@@ -1,0 +1,25 @@
+.hero-content2 {
+    z-index: 0;
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+    max-width: 100rem;
+  }
+  
+  .btn-contact {
+    background-color: #6d2e46;
+    padding: 10px;
+    color: white;
+    font-family: Open Sans;
+    font-style: Bold;
+    border-radius: 5px;
+    letter-spacing: 0.5px;
+    width: 60%;
+  }
+  
+  .title-contact{
+      Font-family: Open Sans;
+      Line-height: 37.5px;
+      Letter-spacing: 2px;
+      font-size: 28px;
+  }
